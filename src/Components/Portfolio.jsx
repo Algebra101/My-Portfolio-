@@ -30,7 +30,7 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  
+
   {
     title: "Automated Machine Learning",
     description:
